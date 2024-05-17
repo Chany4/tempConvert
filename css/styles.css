@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-image: linear-gradient(to bottom right,blue, violet);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#container{
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: white;
+    height: 50%;
+    margin-top: 10%;
+    min-width: fit-content;
+    padding: 5%;
+}
+
+.row{
+    margin: 20px;
+}
+
+#Convert{
+    background-color: rgba(64, 224, 208, 0.303);
+    color: rgb(0, 0, 142);
+    font-weight: bold;
+    border-radius:10px 
+}
+
+input{
+    border-radius: 10px;
+}
+
+h1{
+    font-family: "Bebas Neue", sans-serif;
+}
